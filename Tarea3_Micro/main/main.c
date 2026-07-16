@@ -24,8 +24,8 @@
 
 static const char *TAG = "WIFI";
 
-#define WIFI_SSID      "TP-Link_D922"
-#define WIFI_PASSWORD  "81336180"
+#define WIFI_SSID      "Docentes_Administrativos"
+#define WIFI_PASSWORD  "Adm1N2584km"
 
 typedef enum
 {
